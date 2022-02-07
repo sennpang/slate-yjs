@@ -34,7 +34,7 @@
     "yjs": "^13.5.22"
   },
   "peerDependencies": {
-    "slate": "^0.70.0",
+    "slate": ">=0.70.0",
     "yjs": "^13.5.22"
   },
   "bugs": {
